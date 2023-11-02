@@ -1,1 +1,0 @@
-[Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?page=1&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)

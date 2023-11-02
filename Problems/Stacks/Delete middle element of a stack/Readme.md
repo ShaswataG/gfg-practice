@@ -1,1 +1,0 @@
-[Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
