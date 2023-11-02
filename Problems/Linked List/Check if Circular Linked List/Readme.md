@@ -1,1 +1,0 @@
-[Check If Circular Linked List](https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=1&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)

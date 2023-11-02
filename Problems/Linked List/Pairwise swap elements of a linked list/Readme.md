@@ -1,1 +1,0 @@
-[Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)

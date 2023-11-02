@@ -1,1 +1,0 @@
-https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&category[]=Arrays&category[]=Strings&sortBy=submissions

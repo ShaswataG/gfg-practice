@@ -1,1 +1,0 @@
-[Given a linked list of 0s, 1s and 2s, sort it.](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1?page=1&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
