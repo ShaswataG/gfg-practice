@@ -1,0 +1,1 @@
+[Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)

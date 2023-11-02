@@ -1,0 +1,1 @@
+[Problem URL](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)

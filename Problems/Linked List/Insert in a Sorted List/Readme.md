@@ -1,0 +1,1 @@
+[Insert in a Sorted List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
