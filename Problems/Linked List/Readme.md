@@ -11,3 +11,7 @@
 [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
 
 [Insert in Middle of Linked List](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Node at a given index in linked list](https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
