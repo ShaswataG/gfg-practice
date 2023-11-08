@@ -15,3 +15,15 @@
 [Node at a given index in linked list](https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
 
 [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=2&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Delete node in Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Count Pairs whose sum is equal to X](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Sorted insert for circular linked list](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Delete Alternate Nodes](https://www.geeksforgeeks.org/problems/delete-alternate-nodes/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Get min at pop](https://www.geeksforgeeks.org/problems/get-min-at-pop/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Occurence of an integer in a Linked List](https://www.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
