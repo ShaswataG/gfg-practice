@@ -29,3 +29,5 @@
 [Occurence of an integer in a Linked List](https://www.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1?page=3&category=Linked%20List,Stack,Queue&difficulty=School,Basic,Easy&sortBy=submissions)
 
 [Merge two sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+
+[Reverse a Doubly Linked List]()

@@ -30,6 +30,26 @@ Node* reverseDLL(Node * head)
     return head;
 }
 
+class Solution
+{
+    public:
+    Node* reverseDLL(Node * head)
+    {
+        //Your code here
+        Node* temp;
+        Node* p = head;
+        while (p) {
+            temp = p->next;
+            p->next = p->prev;
+            p->prev = temp;
+            p = p->prev;
+            if (!p->prev) head = p;
+        }
+        return head;
+    }
+};
+
+
 int main() {
     return 0;
 }
