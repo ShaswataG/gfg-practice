@@ -37,3 +37,5 @@
 [Split a Circular Linked List into two halves](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1?page=3&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
 
 [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1?page=3&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Given a linked list of 0s, 1s and 2s, sort it](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1?page=1&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
