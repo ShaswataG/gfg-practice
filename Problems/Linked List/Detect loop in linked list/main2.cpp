@@ -14,13 +14,13 @@ struct Node
 bool detectLoop(Node* head)
 {
     // your code here
-    Node* p = head;
-    int cnt = 0;
-    while (p) {
-        if (p == head && cnt == 1) return true;
-        cnt++;
-        p = p->next;
-    }
+       while(head)
+       {
+           head->data=NULL;
+           head=head->next;
+           if(head!=NULL&&head->data==NULL)return 1;
+       }
+       return 0;
 }
 int main() {
     return 0;

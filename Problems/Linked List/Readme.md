@@ -31,3 +31,9 @@
 [Merge two sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
 
 [Reverse a Doubly Linked List]()
+
+[Delete without head pointer](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1?page=1&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Split a Circular Linked List into two halves](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1?page=3&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1?page=3&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
