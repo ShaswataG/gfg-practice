@@ -43,3 +43,7 @@
 [Find the Sum of Last N nodes of the Linked List](https://www.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1?page=4&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
 
 [Move Last Element to Front of a Linked List](https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1?page=4&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Delete nodes having greater value on right](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1?page=1&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
+
+[Merge 2 sorted linked list in reverse order](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1?page=4&category=Linked%20List,Stack,Queue,Heap&difficulty=School,Basic,Easy&sortBy=submissions)
