@@ -7,3 +7,5 @@
 [Maximum of all subarrays of size k](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1?page=1&category=Arrays,Strings,Sorting,Linked%20List,Stack,Searching,Queue,Merge%20Sort&difficulty=School,Basic,Easy,Medium&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions)
 
 [Insert in Sorted way in a Sorted DLL](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1?page=1&category=Arrays,Strings,Sorting,Linked%20List,Stack,Searching,Queue,Merge%20Sort&difficulty=School,Basic,Easy,Medium&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions)
+
+[Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)
